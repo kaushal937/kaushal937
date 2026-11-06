@@ -8,7 +8,7 @@
 
 <span>&nbsp;&nbsp;• Node JS</span><br>
 <span>&nbsp;&nbsp;• Linux and ops</span><br>
-<span>&nbsp;&nbsp;• Networking / Systems Softwares</span><br><br><br><br>
+<span>&nbsp;&nbsp;• Networking / Systems Softwares</span>
 
 <h2>Pins</h2>
 
