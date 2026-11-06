@@ -13,4 +13,4 @@
 <h2>Pins</h2>
 
 <span>&nbsp;&nbsp;• <a href="https://github.com/kaushal937/NetBreaker"><strong>NetBreaker</strong></a> - A reverse proxy and a server management software, written in TypeScript, C++ and Go (Under development)</span><br>
-<span>&nbsp;&nbsp;• <a href="https://github.com/kaushal937/curlyhair"><strong>Curlyhair</strong></a> - Just a simple tool writter in Node JS to DDoS a website, originally created to stress-test NetBreaker. Not meant for any unethical use.</span>
+<span>&nbsp;&nbsp;• <a href="https://github.com/kaushal937/curlyhair"><strong>Curlyhair</strong></a> - Just a simple tool written in Node JS to DDoS a website, originally created to stress-test NetBreaker. Not meant for any unethical use.</span>
